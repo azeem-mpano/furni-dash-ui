@@ -2,8 +2,6 @@
  Dash UI - Next.js Free admin / dashboard  template created by and available on Github
 
 
- 
-## How to use DashUI?
 
 Clone the Dash UI repo:
 ```
