@@ -7,8 +7,7 @@
 
 Clone the Dash UI repo:
 ```
-git clone https://github.com/codescandy/dashui-free-nextjs-admin-template.git
-```
+https://github.com/azeem-mpano/furni-dash-ui.git
 ```
 cd dashui-free-nextjs-admin-template
 ```
