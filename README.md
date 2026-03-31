@@ -47,6 +47,3 @@ npm run build
 | Authentication |
 | [Demo](https://dashui-free-nextjs-admin-template.vercel.app/) |
 
-## Technical Support or Questions
-If you have questions or need help integrating the product please [contact us](https://codescandy.com/contact-us/).
-
